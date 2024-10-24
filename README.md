@@ -5,8 +5,6 @@ Before starting, make sure you have a white background behind you with your face
 
 **Winning Hackathon Project**
 
-Team Members: Kalyan Cherukuri, Sonit Sahoo, Aarav Mishra, Arun Muthukkumar
-
 [Presentation](https://docs.google.com/presentation/d/1vLZBUljoAC716nZZUsT34PBk9kOwex-9rbnVxJ0Ri6s/edit?usp=sharing)
 
 [Live Demo](https://vracton.github.io/asltype/lesson.html)
