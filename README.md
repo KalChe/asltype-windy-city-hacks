@@ -8,3 +8,5 @@ Before starting, make sure you have a white background behind you with your face
 [Presentation](https://docs.google.com/presentation/d/1vLZBUljoAC716nZZUsT34PBk9kOwex-9rbnVxJ0Ri6s/edit?usp=sharing)
 
 [Live Demo](https://vracton.github.io/asltype/lesson.html)
+
+[Reach me!](mailto:kcherukuri@imsa.edu)
