@@ -9,6 +9,4 @@ Before starting, make sure you have a white background behind you with your face
 
 [Live Demo](https://vracton.github.io/asltype/lesson.html)
 
-Author: Kalyan Cherukuri
-
 [Reach me!](mailto:kcherukuri@imsa.edu)
